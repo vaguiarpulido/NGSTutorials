@@ -6,6 +6,8 @@
 Welcome to NGS Tutorials's documentation!
 =========================================
 
+The aim of this repository is to provide an organized resource of useful tutorials for analyzing NGS data that are freely available online.
+
 Contents:
 
 .. toctree::
