@@ -1,7 +1,9 @@
 1. Metataxonomics
 =================
 
-*Metataxonomics* allows us to investigate the composition of a microbial community using amplicons from a targeted marker gene in order to make taxonomic inferences. A variety of tools and analysis pipelines have been developed to deal with this type of data. Some of the most popular ones are QIIME and Mothur. *QIIME* provides a set of integratable scripts for analyzing raw microbial DNA samples including taxonomic classification using marker genes such as 16S rRNA, but allowing flexible pipelines to be constructed. Although *Mothur* was initially designed to target the microbial ecology community, it has since been adopted by the human microbiome community as well. It provides an extensible package with functionality accessible through a domain-specific language. Like QIIME, Mothur is also a metataxonomic tool, focusing on marker genes such as 16S rRNA.
+*Metataxonomics* allows us to investigate the composition of a microbial community using amplicons from a targeted marker gene in order to make taxonomic inferences. A variety of tools and analysis pipelines have been developed to deal with this type of data. Some of the most popular ones are QIIME and Mothur. 
+
+*QIIME* provides a set of integratable scripts for analyzing raw microbial DNA samples including taxonomic classification using marker genes such as 16S rRNA, but allowing flexible pipelines to be constructed. Although *Mothur* was initially designed to target the microbial ecology community, it has since been adopted by the human microbiome community as well. It provides an extensible package with functionality accessible through a domain-specific language. Like QIIME, Mothur is also a metataxonomic tool, focusing on marker genes such as 16S rRNA.
 
 1.1 16S
 -------
