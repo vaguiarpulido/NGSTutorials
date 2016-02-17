@@ -10,5 +10,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   01_metataxonomics
+   02_metagenomics
 
 
