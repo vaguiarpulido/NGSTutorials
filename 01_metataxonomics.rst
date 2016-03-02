@@ -11,6 +11,7 @@
 **General tutorials**
 
 - `Using QIIME to analyze 16S rRNA gene sequences from Microbial Communities <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249058/>`_
+- `Large-scale data analysis using subsampled open-reference clustering (QIIME) <https://github.com/gregcaporaso/cloaked-octo-ninja>`_
 
 **Illumina**
 
